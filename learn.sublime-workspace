@@ -1,0 +1,612 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"http",
+				"http.get(options, cb);"
+			],
+			[
+				"pathex",
+				"path.extname(path);"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"each",
+				"each	.each()"
+			],
+			[
+				"path",
+				"path.extname(path);"
+			],
+			[
+				"fsre",
+				"fs.readdir(path, callback);"
+			],
+			[
+				"fsread",
+				"fs.readFile(path, encoding_);"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"ren",
+				"renderTable"
+			],
+			[
+				"que",
+				"queryType"
+			],
+			[
+				"text",
+				"textStatus"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"xm",
+				"XMLUtilTester"
+			],
+			[
+				"para",
+				"paramsList"
+			],
+			[
+				"get",
+				"getElementsByTagName"
+			],
+			[
+				"event",
+				"eventNameString"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"ba",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "exercise61.js",
+			"settings":
+			{
+				"buffer_size": 398,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "exercise7.js",
+			"settings":
+			{
+				"buffer_size": 178,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "exercise62.js",
+			"settings":
+			{
+				"buffer_size": 276,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/node.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"no",
+				"Nodejs::Debug::Run::Current File"
+			],
+			[
+				"node",
+				"Nodejs::Default File Settings"
+			],
+			[
+				"nodejs",
+				"Nodejs::Run::Current File"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"docu",
+				"Snippet: $(document).ready"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"nod",
+				"Nodejs::Default File Settings"
+			],
+			[
+				"",
+				"Nodejs::Debug::Run::Current File"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"uni",
+				"Nodejs::Run::Current File"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kiwi/Code/Solarized Light.itermcolors",
+		"/Users/kiwi/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/kiwi/Downloads/MakerPlusChromeApp/main.html",
+		"/Users/kiwi/Code/nodejs/learn/exercise4.js",
+		"/Users/kiwi/Code/nodejs/learn/exercise5.js",
+		"/Users/kiwi/Code/nodejs/testapp/package.json",
+		"/Users/kiwi/Library/Application Support/Sublime Text 2/Packages/Nodejs/Nodejs.sublime-build",
+		"/Users/kiwi/Library/Application Support/Sublime Text 2/Packages/User/node.sublime-build",
+		"/Users/kiwi/Library/Application Support/Sublime Text 2/Packages/Nodejs/Nodejs.sublime-settings",
+		"/Users/kiwi/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/kiwi/Code/Workspaces/MyEclipse/MakerPlus/WebRoot/WEB-INF/EventConfig.xml",
+		"/Users/kiwi/Code/Workspaces/MyEclipse/MakerPlus/WebRoot/OpenChest.jsp",
+		"/Users/kiwi/Code/Workspaces/MyEclipse/MakerPlus/WebRoot/WEB-INF/web.xml",
+		"/Users/kiwi/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/kiwi/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/Users/kiwi/Library/Application Support/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+		"/Users/kiwi/Code/nodejs/file-explorer/index.js",
+		"/Users/kiwi/Library/Application Support/Sublime Text 2/Packages/User/Nodejs.sublime-settings",
+		"/Users/kiwi/Code/nodejs/file-explorer/package.json",
+		"/Users/kiwi/Code/Workspaces/MyEclipse/AOMDemo/WebRoot/Query.jsp",
+		"/Users/kiwi/Code/Workspaces/MyEclipse/AOMDemo/WebRoot/script.js",
+		"/Users/kiwi/Code/Workspaces/apache-tomcat-8.0.12/webapps/AOMDemo/WEB-INF/QueryType.xml",
+		"/Users/kiwi/Code/Workspaces/MyEclipse/MakerPlus/EventConfig.xml",
+		"/Users/kiwi/Code/Workspaces/MyEclipse/MakerPlus/src/self/kiwi/test/Exception in thread \"main\" java.lang.NoClassDefFoundError",
+		"/Users/kiwi/Desktop/main.java",
+		"/Users/kiwi/Library/Application Support/Sublime Text 2/Packages/Java/JavaC.sublime-build",
+		"/Users/kiwi/Code/Workspaces/MyEclipse/MakerPlus/src/self/kiwi/dao/EventDAO.java",
+		"/Users/20140816Hosts.bak",
+		"/Users/20140622Hosts.bak",
+		"/Users/kiwi/Code/front end/FXStar/HelloWorld.html",
+		"/Users/kiwi/Code/python/HelloWorld.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console",
+			"filse",
+			"<div class=\"button_box\"><button class=\"btn\" onclick=\"start()\" accesskey=\"s\">开始(<U>S</U>)</button><button class=\"btn\" onclick=\"ok()\" accesskey=\"o\">停止(<U>O</U>)</button></div>",
+			"twitter",
+			"bootstrape"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "exercise61.js",
+					"settings":
+					{
+						"buffer_size": 398,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								398,
+								398
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "exercise7.js",
+					"settings":
+					{
+						"buffer_size": 178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								169,
+								169
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "exercise62.js",
+					"settings":
+					{
+						"buffer_size": 276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								81,
+								81
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"un",
+				"WebRoot/WEB-INF/untitled.html"
+			],
+			[
+				"sc",
+				"WebRoot/script.js"
+			],
+			[
+				"op",
+				"WebRoot/OpenChest.jsp"
+			],
+			[
+				"eve",
+				"WebRoot/WEB-INF/EventConfig.xml"
+			],
+			[
+				"",
+				"/Users/kiwi/Code/Workspaces/MyEclipse/MakerPlus/EventConfig.xml"
+			],
+			[
+				"test",
+				"src/self/kiwi/test/Tester.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
