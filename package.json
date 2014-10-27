@@ -1,0 +1,25 @@
+{
+  "name": "LearnyounodeSolution",
+  "version": "1.0.0",
+  "description": "A solution to learnyounode",
+  "main": "exercise1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zcwist/LearnyounodeSolution.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "zcwist",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zcwist/LearnyounodeSolution/issues"
+  },
+  "homepage": "https://github.com/zcwist/LearnyounodeSolution",
+  "devDependencies": {
+    "strftime": "*"
+  }
+}
